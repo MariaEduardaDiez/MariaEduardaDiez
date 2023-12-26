@@ -1,5 +1,5 @@
 <div>
-  <img align="right" style="float: right" src="https://i.ibb.co/hycPMtc/imagem-2023-12-25-220249271.png" alt="girl computer" width="300px" height="300px" >
+  <img align="right" style="float: right" src="https://i.ibb.co/hycPMtc/imagem-2023-12-25-220249271.png" alt="girl computer" width="400px" height="400px">
 
   <p align="left"> 
    🤗  Olá, Me chamo Maria Eduarda tenho 18 anos,<br> estou em busca de aprimorar minhas habilidades de programação,<br> especialmente em áreas como desenvolvimento web<br>
